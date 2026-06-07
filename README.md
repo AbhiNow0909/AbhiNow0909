@@ -1,5 +1,5 @@
 # 💫 About Me:
-I love playing video games and have a keen interest in AI and Machine Learning
+I love playing video games and have a keen interest in AI and Agentic Systems
 
 
 ## 🌐 Socials:
